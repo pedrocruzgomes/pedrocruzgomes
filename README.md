@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Guilherme, apaixonado por tecnologia!
 ##
-- 🌱 Atualmente estudando análise e desenvolvimento de sistemas
+- 🌱 Formado em análise e desenvolvimento de sistemas
 - 📫 Contate-me no email: pedrodellacruz@hotmail.com
 ##
 <div align="center">
